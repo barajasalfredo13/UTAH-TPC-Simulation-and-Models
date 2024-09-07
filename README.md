@@ -2,9 +2,13 @@
 
 ### Table of Contents
 - Simplified Model
-  - Contents
+  - Model Contents
 - Complex Model
 - COMSOL Simulation (Electric Field)
+  - Importing External Models
+  - Setting Up Paramaters
+  - Mesh Settings
+  - Simulation
 - COMSOL Simulation (Particles in Free Space)
 
 
@@ -24,4 +28,7 @@ The objects contained in the STEP Files are as detailed
 <img src="./z.ReadMeAssets/SimplifiedModel/1.png" width="70%">
 
 <img src="./z.ReadMeAssets/SimplifiedModel/2.png" width="70%">
+
+## Complex Model
+### Model Coontents
 
