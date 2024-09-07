@@ -11,7 +11,8 @@
 ---
 ## Simplified Model
 The simplified model is less detailed to use for initial setups on simulation
-<img src="./z.ReadMeAssets/Images/" width="70%">
+
+<img src="./z.ReadMeAssets/SimplifiedMode/1.png" width="70%">
 
 ### Model Contents
 The objects contained in the STEP Files are as detailed
