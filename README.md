@@ -30,5 +30,5 @@ The objects contained in the STEP Files are as detailed
 <img src="./z.ReadMeAssets/SimplifiedModel/2.png" width="70%">
 
 ## Complex Model
-### Model Coontents
+### Model Contents
 
