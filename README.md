@@ -1,6 +1,6 @@
 # UTAH-TPC-Simulation-and-Models
 ### Table of Contents
-- Base Model
+- Simple Geometry Model
   - Contents
   - System
   - Field Cage Regions
@@ -13,8 +13,17 @@
   - Simulation
 - COMSOL Simulation (Particles in Free Space)
 
+### File Shortcuts
+| Item | File Extension  | Program |
+|------|----------------|---------------------|
+| [Design Consideratioons for the UTA/H LArTPC](/y.Original%20Documentation/UTAH_TPCs.pdf)     | .pdf  | Any PDF Opener |
+| [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/UTAH.zip) | .zip | N/A |
+| Simple Geometry Model | .STEP | Any 3D CAD Program |
+| Voltage Divider       | .kicad_pro | [KiCAD](https://www.kicad.org/) |
+| Detailed Model        | .STEP | Any 3D CAD Program |
+
 ---
-## Simplified Model
+## Simple Geometry Model
 ### Contents
 The objects contained in the STEP Files are as detailed
 |      Name     |  Quantity  |                  Description                      |
