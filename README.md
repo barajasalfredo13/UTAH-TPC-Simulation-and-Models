@@ -1,10 +1,19 @@
 # UTAH-TPC-Simulation-and-Models
 
 ### Table of Contents
+<<<<<<< HEAD
 - Base Model
   - Contents
+=======
+- Simplified Model
+  - Model Contents
+>>>>>>> d6849e55c9f2afc11b896b8aaee1ad81a846c002
 - Complex Model
 - COMSOL Simulation (Electric Field)
+  - Importing External Models
+  - Setting Up Paramaters
+  - Mesh Settings
+  - Simulation
 - COMSOL Simulation (Particles in Free Space)
 
 
@@ -31,4 +40,7 @@ The objects contained in the STEP Files are as detailed
 <img src="./z.ReadMeAssets/UTAH Github/Slide1.png" width="70%">
 
 <img src="./z.ReadMeAssets/UTAH Github/Slide2.png" width="70%">
+
+## Complex Model
+### Model Contents
 
