@@ -15,7 +15,7 @@
 
 ---
 ## Simplified Model
-### Model Contents
+### Contents
 The objects contained in the STEP Files are as detailed
 |      Name     |  Quantity  |                  Description                      |
 |---------------|:----------:|---------------------------------------------------|
@@ -26,17 +26,26 @@ The objects contained in the STEP Files are as detailed
 | Mesh Ring     |      2     | Electric Field Ring for Mesh Support              |
 | HDPE Cylinder |      2     | Electric Field Ring for Mesh Support              |
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide1.PNG" width="70%">
+### System
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide2.PNG" width="70%">
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide1.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide3.PNG" width="70%">
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide2.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide4.PNG" width="70%">
+Pixels are placed under a mesh grid such that any drifting charges are focused onto pads, a later simulation showcases such in an ideal system.
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide5.PNG" width="70%">
 
-<img src="./z.ReadMeAssets/UTAH%20Github/Slide6.PNG" width="70%">
+### Field Cage Regions
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide3.PNG" width="100%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide4.PNG" width="100%">
+
+### Simulation and Calculations
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide5.PNG" width="100%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide6.PNG" width="100%">
 
 ## Complex Model
 ### Model Contents
