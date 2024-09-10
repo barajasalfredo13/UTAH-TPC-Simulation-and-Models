@@ -1,11 +1,18 @@
 # UTAH-TPC-Simulation-and-Models
 
 ### Table of Contents
-- Simplified Model
+- Base Model
   - Contents
 - Complex Model
 - COMSOL Simulation (Electric Field)
 - COMSOL Simulation (Particles in Free Space)
+
+
+
+
+
+
+
 
 
 ---
@@ -21,7 +28,7 @@ The objects contained in the STEP Files are as detailed
 | Mesh Ring     |      2     | Electric Field Ring for Mesh Support              |
 | HDPE Cylinder |      2     | Electric Field Ring for Mesh Support              |
 
-<img src="./z.ReadMeAssets/SimplifiedModel/1.png" width="70%">
+<img src="./z.ReadMeAssets/UTAH Github/Slide1.png" width="70%">
 
-<img src="./z.ReadMeAssets/SimplifiedModel/2.png" width="70%">
+<img src="./z.ReadMeAssets/UTAH Github/Slide2.png" width="70%">
 
