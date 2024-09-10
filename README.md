@@ -1,13 +1,10 @@
 # UTAH-TPC-Simulation-and-Models
 
 ### Table of Contents
-<<<<<<< HEAD
 - Base Model
   - Contents
-=======
 - Simplified Model
   - Model Contents
->>>>>>> d6849e55c9f2afc11b896b8aaee1ad81a846c002
 - Complex Model
 - COMSOL Simulation (Electric Field)
   - Importing External Models
@@ -15,14 +12,6 @@
   - Mesh Settings
   - Simulation
 - COMSOL Simulation (Particles in Free Space)
-
-
-
-
-
-
-
-
 
 ---
 ## Simplified Model
@@ -37,9 +26,17 @@ The objects contained in the STEP Files are as detailed
 | Mesh Ring     |      2     | Electric Field Ring for Mesh Support              |
 | HDPE Cylinder |      2     | Electric Field Ring for Mesh Support              |
 
-<img src="./z.ReadMeAssets/UTAH Github/Slide1.png" width="70%">
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide1.PNG" width="70%">
 
-<img src="./z.ReadMeAssets/UTAH Github/Slide2.png" width="70%">
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide2.PNG" width="70%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide3.PNG" width="70%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide4.PNG" width="70%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide5.PNG" width="70%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide6.PNG" width="70%">
 
 ## Complex Model
 ### Model Contents
