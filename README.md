@@ -24,7 +24,9 @@
 
 ---
 ## Simple Geometry Model
+
 ### Contents
+---
 The objects contained in the STEP Files are as detailed
 |      Name     |  Quantity  |                  Description                      |
 |---------------|:----------:|---------------------------------------------------|
