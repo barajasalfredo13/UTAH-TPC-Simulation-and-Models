@@ -1,6 +1,6 @@
 # UTAH-TPC-Simulation-and-Models
 ### Table of Contents
-- Simple Geometry Model
+- [Simple Geometry Model](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#simple-geometry-model)
   - Contents
   - System
   - Field Cage Regions
