@@ -1,11 +1,11 @@
 # UTAH-TPC-Simulation-and-Models
 ### Table of Contents
 - [Simple Geometry Model](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#simple-geometry-model)
-  - Contents
-  - System
-  - Field Cage Regions
-  - Simulation and Calculations
-- Complex Model
+  - [Contents](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#contents)
+  - [System](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#system)
+  - [Field Cage Regions](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#field-cage-regions)
+  - [Simulation and Calculations](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#simulation-and-calculations)
+- [Complex Model](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#complex-model)
 - COMSOL Simulation (Electric Field)
   - Importing External Models
   - Setting Up Paramaters
