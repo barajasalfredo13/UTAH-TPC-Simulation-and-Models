@@ -20,6 +20,7 @@
 | [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/) | .zip | N/A |
 | [Simple Geometry Model](/Simple%20Model/) | .STEP | Any 3D CAD Program |
 | [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)       | .kicad_pro | [KiCAD](https://www.kicad.org/) |
+| [Voltage Calculator]() | .xlsx | Microsoft Excel |
 | Detailed Model        | .STEP | Any 3D CAD Program |
 
 ---
