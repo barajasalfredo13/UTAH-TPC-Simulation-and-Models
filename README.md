@@ -19,7 +19,7 @@
 | [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | .pdf  | Any PDF Opener |
 | [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/) | .zip | N/A |
 | [Simple Geometry Model](/Simple%20Model/) | .STEP | Any 3D CAD Program |
-| Voltage Divider       | .kicad_pro | [KiCAD](https://www.kicad.org/) |
+| [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)       | .kicad_pro | [KiCAD](https://www.kicad.org/) |
 | Detailed Model        | .STEP | Any 3D CAD Program |
 
 ---
