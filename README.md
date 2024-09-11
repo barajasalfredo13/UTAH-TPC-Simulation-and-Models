@@ -14,14 +14,14 @@
 - COMSOL Simulation (Particles in Free Space)
 
 ### File Shortcuts
-| Item | File Extension  | Program |
-|------|----------------|---------------------|
-| [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | .pdf  | Any PDF Opener |
-| [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/) | .zip | N/A |
-| [Simple Geometry Model](/Simple%20Model/) | .STEP | Any 3D CAD Program |
-| [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)       | .kicad_pro | [KiCAD](https://www.kicad.org/) |
-| [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/) | .xlsx | Microsoft Excel |
-| Detailed Model        | .STEP | Any 3D CAD Program |
+| Item                                                                           | File Extension | Program |
+|--------------------------------------------------------------------------------|----------------|---------------------|
+| [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | .pdf           | Any PDF Opener |
+| [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/)               | .zip           | N/A |
+| [Simple Geometry Model](/Simple%20Model/)                                      | .STEP          | Any 3D CAD Program |
+| [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)             | .kicad_pro     | [KiCAD](https://www.kicad.org/) |
+| [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/)                | .xlsx          | Microsoft Excel |
+| Detailed Model                                                                 | .STEP          | Any 3D CAD Program |
 
 ---
 ## Simple Geometry Model
