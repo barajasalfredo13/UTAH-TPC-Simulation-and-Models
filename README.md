@@ -18,10 +18,11 @@
 |--------------------------------------------------------------------------------|----------------|---------------------|
 | [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | .pdf           | Any PDF Opener |
 | [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/)               | .zip           | N/A |
-| [Simple Geometry Model](/Simple%20Model/)                                      | .STEP          | Any 3D CAD Program |
+| [Simple Geometry Model](/Models/)                                              | .STEP          | Any 3D CAD Program |
 | [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)             | .kicad_pro     | [KiCAD](https://www.kicad.org/) |
 | [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/)                | .xlsx          | Microsoft Excel |
-| Detailed Model                                                                 | .STEP          | Any 3D CAD Program |
+| [Complex Geometry Model](/Models/)                                             | .STEP          | Any 3D CAD Program |
+| [ElectricField.UTAHTPC](/Models/)                                              | .zip .mph      | COMSOL Multiphysics |
 
 ---
 ## Simple Geometry Model
@@ -64,6 +65,8 @@ Pixels are placed under a mesh grid such that any drifting charges are focused o
 <img src="./z.ReadMeAssets/UTAH%20Github/Slide5.PNG" width="100%">
 
 <img src="./z.ReadMeAssets/UTAH%20Github/Slide6.PNG" width="100%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide7.PNG" width="100%">
 
 ---
 ## Complex Model
