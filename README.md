@@ -6,12 +6,6 @@
   - [Field Cage Regions](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#field-cage-regions)
   - [Simulation and Calculations](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#simulation-and-calculations)
 - [Complex Model](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#complex-model)
-- COMSOL Simulation (Electric Field)
-  - Importing External Models
-  - Setting Up Paramaters
-  - Mesh Settings
-  - Simulation
-- COMSOL Simulation (Particles in Free Space)
 
 ### File Shortcuts
 | Item                                                                           | File Extension | Program |
@@ -21,8 +15,9 @@
 | [Simple Geometry Model](/Models/)                                              | .STEP          | Any 3D CAD Program |
 | [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)             | .kicad_pro     | [KiCAD](https://www.kicad.org/) |
 | [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/)                | .xlsx          | Microsoft Excel |
-| [Complex Geometry Model](/Models/)                                             | .STEP          | Any 3D CAD Program |
 | [ElectricField.UTAHTPC](/Models/)                                              | .zip .mph      | COMSOL Multiphysics |
+| [Exposed UTAH TPC Model](/Models/)                                             | .STEP          | Any 3D CAD Program |
+| [Enclosed UTAH TPO Model](/Models/)                                             | .STEP          | Any 3D CAD Program |
 
 ---
 ## Simple Geometry Model
@@ -70,5 +65,7 @@ Pixels are placed under a mesh grid such that any drifting charges are focused o
 
 ---
 ## Complex Model
-### Model Contents
 
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide8.PNG" width="100%">
+
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide9.PNG" width="100%">
