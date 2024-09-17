@@ -65,6 +65,7 @@ Pixels are placed under a mesh grid such that any drifting charges are focused o
 
 ---
 ### Complex Model
+---
 
 <img src="./z.ReadMeAssets/UTAH%20Github/Slide8.PNG" width="100%">
 
