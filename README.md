@@ -80,3 +80,4 @@ Pixels are placed under a mesh grid such that any drifting charges are focused o
 
 <img src="./z.ReadMeAssets/UTAH%20Github/Slide12.PNG" width="100%">
 
+<img src="./z.ReadMeAssets/UTAH%20Github/Slide13.PNG" width="100%">
