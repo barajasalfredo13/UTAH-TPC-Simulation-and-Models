@@ -12,16 +12,16 @@ The motive for this computation was to determine ideal parameters for experiment
   - [UTAH-TPC Model](https://github.com/barajasalfredo13/UTAH-TPC-Simulation-and-Models/tree/main?tab=readme-ov-file#complex-model)
 
 ### File Shortcuts
-| Item                                                                           | File Extension |         Program         |
-|--------------------------------------------------------------------------------|----------------|-------------------------|
-| [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | .pdf           | Any PDF Opener          |
-| [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/)               | .zip           | N/A                     |
-| [Simple Geometry Model](/Models/)                                              | .STEP          | Any 3D CAD Program      |
-| [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)             | .kicad_pro     | [KiCAD](https://www.kicad.org/) |
-| [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/)                | .xlsx          | Microsoft Excel         |
-| [ElectricField.UTAHTPC](/Models/)                                              | .zip .mph      | COMSOL Multiphysics     |
-| [Exposed UTAH TPC Model](/Models/)                                             | .STEP          | Any 3D CAD Program      |
-| [Enclosed UTAH TPO Model](/Models/)                                            | .STEP          | Any 3D CAD Program      |
+| Item                                                                           | Description                                 | File Extension | Program                         |
+|--------------------------------------------------------------------------------|---------------------------------------------|----------------|---------------------------------|
+| [Design Considerations for the UTA/H LArTPC](/y.Original%20Documentation/)     | Original Documentation                      |.pdf            | Any PDF Opener                  |
+| [UTA/H TPC Original CAD Drawings ](/y.Original%20Documentation/)               | Original Documentation                      |.zip            | N/A                             |
+| [Simple Geometry Model](/Models/)                                              | Simple Geometry for setting up simulations  |.STEP           | Any 3D CAD Program              |
+| [Voltage Divider](/Misc%20Assets/UTAH%20TPC%20Resistor%20Network/)             | Field Cage Voltage Divider                  |.kicad_pro      | [KiCAD](https://www.kicad.org/) |
+| [Voltage Calculator](/Misc%20Assets/Field%20Cage%20Calculator/)                | Excel Sheet tool for Bias Checking          |.xlsx           | Microsoft Excel                 |
+| [ElectricField.UTAHTPC](/Models/)                                              | Simulation application for initial analysis |.zip .mph       | COMSOL Multiphysics             |
+| [Exposed UTAH TPC Model](/Models/)                                             | CAD Model without enclosure                 |.STEP           | Any 3D CAD Program              |
+| [Enclosed UTAH TPO Model](/Models/)                                            | CAD Model with enclosure                    |.STEP           | Any 3D CAD Program              |
 
 ---
 ## Simple Geometry Model
